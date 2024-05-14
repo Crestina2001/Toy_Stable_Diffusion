@@ -1,0 +1,454 @@
+2023-11-24 18:05:26 INFO Training with parameters: {'image_size': 28, 'channels': 1, 'batch_size': 128, 'timesteps': 200, 'beta_end': 0.08, 'num_epochs': 20, 'beta_start': 0.0001, 'results_folder': PosixPath('results'), 'noise_schedule': 'linear', 'sampling_method': 'DDPM'}
+2023-11-24 18:05:59 INFO epoch 0: fid score: 2571.856589563883
+2023-11-24 18:06:30 INFO epoch 1: fid score: 2579.1922936291985
+2023-11-24 18:08:11 INFO Training with parameters: {'image_size': 28, 'channels': 1, 'batch_size': 128, 'timesteps': 200, 'beta_end': 0.08, 'num_epochs': 20, 'beta_start': 0.0001, 'results_folder': PosixPath('results'), 'noise_schedule': 'linear', 'sampling_method': 'DDPM'}
+2023-11-24 18:08:26 INFO Training with parameters: {'image_size': 28, 'channels': 1, 'batch_size': 128, 'timesteps': 200, 'beta_end': 0.08, 'num_epochs': 20, 'beta_start': 0.0001, 'results_folder': PosixPath('results'), 'noise_schedule': 'linear', 'sampling_method': 'DDPM'}
+2023-11-24 18:09:00 INFO epoch 0: fid score: 2064.110920556397
+2023-11-24 18:09:32 INFO epoch 1: fid score: 2282.956876576605
+2023-11-24 18:09:46 INFO Training with parameters: {'image_size': 28, 'channels': 1, 'batch_size': 128, 'timesteps': 200, 'beta_end': 0.08, 'num_epochs': 20, 'beta_start': 0.0001, 'results_folder': PosixPath('results'), 'noise_schedule': 'linear', 'sampling_method': 'DDPM'}
+2023-11-24 18:10:20 INFO epoch 0: fid score: 2096.980039135892
+2023-11-24 18:10:51 INFO epoch 1: fid score: 2546.2240883709537
+2023-11-24 18:11:22 INFO epoch 2: fid score: 2205.5997105274046
+2023-11-24 18:11:52 INFO epoch 3: fid score: 2283.462894879576
+2023-11-24 18:12:22 INFO epoch 4: fid score: 2119.141914523127
+2023-11-24 18:12:52 INFO epoch 5: fid score: 2282.2672504411917
+2023-11-24 18:13:23 INFO epoch 6: fid score: 2155.052703240549
+2023-11-24 18:13:53 INFO epoch 7: fid score: 2058.2879312022083
+2023-11-24 18:14:23 INFO epoch 8: fid score: 2194.110795330851
+2023-11-24 18:14:54 INFO epoch 9: fid score: 2081.3912191540467
+2023-11-24 18:15:24 INFO epoch 10: fid score: 2024.0087557623356
+2023-11-24 18:15:55 INFO epoch 11: fid score: 1989.9546249587077
+2023-11-24 18:16:25 INFO epoch 12: fid score: 2170.894374818471
+2023-11-24 18:16:55 INFO epoch 13: fid score: 2004.822101656989
+2023-11-24 18:17:25 INFO epoch 14: fid score: 1973.4321171238137
+2023-11-24 18:17:55 INFO epoch 15: fid score: 2063.1588225805644
+2023-11-24 18:18:25 INFO epoch 16: fid score: 2076.824643395887
+2023-11-24 18:18:55 INFO epoch 17: fid score: 2076.9786294137793
+2023-11-24 18:19:25 INFO epoch 18: fid score: 2128.6582558181117
+2023-11-24 18:19:55 INFO epoch 19: fid score: 2019.13793854561
+2023-11-24 18:19:55 INFO best result: 1973.4321171238137
+2023-11-24 18:22:05 INFO Training with parameters: {'image_size': 28, 'channels': 1, 'batch_size': 128, 'timesteps': 200, 'beta_end': 0.08, 'num_epochs': 20, 'beta_start': 0.0001, 'results_folder': PosixPath('results'), 'noise_schedule': 'linear', 'sampling_method': 'DDPM'}
+2023-11-24 18:22:39 INFO epoch 0: fid score: 2428.6118740593565
+2023-11-24 18:23:10 INFO epoch 1: fid score: 2371.2912125070425
+2023-11-24 18:23:40 INFO epoch 2: fid score: 2324.6975094107893
+2023-11-24 18:24:11 INFO epoch 3: fid score: 2356.1478659812155
+2023-11-24 18:24:41 INFO epoch 4: fid score: 2020.153612111153
+2023-11-24 18:25:09 INFO Training with parameters: {'image_size': 28, 'channels': 1, 'batch_size': 128, 'timesteps': 200, 'beta_end': 0.08, 'num_epochs': 20, 'beta_start': 0.0001, 'results_folder': PosixPath('results'), 'noise_schedule': 'linear', 'sampling_method': 'DDPM'}
+2023-11-24 18:25:22 INFO Training with parameters: {'image_size': 28, 'channels': 1, 'batch_size': 128, 'timesteps': 200, 'beta_end': 0.08, 'num_epochs': 20, 'beta_start': 0.0001, 'results_folder': PosixPath('results'), 'noise_schedule': 'linear', 'sampling_method': 'DDPM'}
+2023-11-24 18:25:45 INFO Training with parameters: {'image_size': 28, 'channels': 1, 'batch_size': 128, 'timesteps': 200, 'beta_end': 0.08, 'num_epochs': 20, 'beta_start': 0.0001, 'results_folder': PosixPath('results'), 'noise_schedule': 'linear', 'sampling_method': 'DDPM'}
+2023-11-24 18:26:34 INFO Training with parameters: {'image_size': 28, 'channels': 1, 'batch_size': 128, 'timesteps': 200, 'beta_end': 0.08, 'num_epochs': 20, 'beta_start': 0.0001, 'results_folder': PosixPath('results'), 'noise_schedule': 'linear', 'sampling_method': 'DDPM'}
+2023-11-24 18:27:31 INFO epoch 0: fid score: 434786.393098444
+2023-11-24 18:28:24 INFO epoch 1: fid score: 112890.77269964573
+2023-11-24 18:29:16 INFO epoch 2: fid score: 2015.8165363628123
+2023-11-24 18:30:09 INFO epoch 3: fid score: 2594.275155999094
+2023-11-24 18:31:02 INFO epoch 4: fid score: 2450.148517229009
+2023-11-24 18:31:16 INFO Training with parameters: {'image_size': 28, 'channels': 1, 'batch_size': 128, 'timesteps': 200, 'beta_end': 0.08, 'num_epochs': 20, 'beta_start': 0.0001, 'results_folder': PosixPath('results'), 'noise_schedule': 'linear', 'sampling_method': 'DDPM'}
+2023-11-24 18:31:50 INFO epoch 0: fid score: 2410.5383401367353
+2023-11-24 18:32:20 INFO epoch 1: fid score: 2168.857069765222
+2023-11-24 18:32:50 INFO epoch 2: fid score: 2270.1548305484575
+2023-11-24 18:33:21 INFO epoch 3: fid score: 2349.585089702526
+2023-11-24 18:33:50 INFO epoch 4: fid score: 2142.519288939933
+2023-11-24 18:34:21 INFO epoch 5: fid score: 2254.22054824118
+2023-11-24 18:34:51 INFO epoch 6: fid score: 2000.3209273933621
+2023-11-24 18:35:21 INFO epoch 7: fid score: 2112.1333599305935
+2023-11-24 18:35:51 INFO epoch 8: fid score: 2095.2463220497475
+2023-11-24 18:36:22 INFO epoch 9: fid score: 2077.268189496003
+2023-11-24 18:36:52 INFO epoch 10: fid score: 2083.1362982125265
+2023-11-24 18:37:22 INFO epoch 11: fid score: 2114.633227528576
+2023-11-24 18:37:52 INFO epoch 12: fid score: 2216.6517631486895
+2023-11-24 18:38:22 INFO epoch 13: fid score: 1966.8711814364701
+2023-11-24 18:38:52 INFO epoch 14: fid score: 2046.9724492030134
+2023-11-24 18:39:22 INFO epoch 15: fid score: 2213.229662370646
+2023-11-24 18:39:51 INFO epoch 16: fid score: 2086.3006219151207
+2023-11-24 18:40:21 INFO epoch 17: fid score: 2176.6085237334937
+2023-11-24 18:40:53 INFO epoch 18: fid score: 2119.9051286470885
+2023-11-24 18:41:23 INFO epoch 19: fid score: 1989.688408961717
+2023-11-24 18:41:23 INFO best result: 1966.8711814364701
+2023-11-24 19:20:21 INFO Training with parameters: {'image_size': 28, 'channels': 1, 'batch_size': 128, 'timesteps': 200, 'beta_end': 0.08, 'num_epochs': 20, 'beta_start': 0.0001, 'results_folder': PosixPath('results'), 'noise_schedule': 'linear', 'sampling_method': 'DDPM'}
+2023-11-24 19:21:39 INFO Training with parameters: {'image_size': 28, 'channels': 1, 'batch_size': 128, 'timesteps': 200, 'beta_end': 0.08, 'num_epochs': 20, 'beta_start': 0.0001, 'results_folder': PosixPath('results'), 'noise_schedule': 'linear', 'sampling_method': 'DDPM'}
+2023-11-24 19:22:13 INFO epoch 0: fid score: 2475.6382432826276
+2023-11-24 19:22:30 INFO Training with parameters: {'image_size': 28, 'channels': 1, 'batch_size': 128, 'timesteps': 200, 'beta_end': 0.08, 'num_epochs': 20, 'beta_start': 0.0001, 'results_folder': PosixPath('results'), 'noise_schedule': 'linear', 'sampling_method': 'DDPM'}
+2023-11-24 19:24:20 INFO Training with parameters: {'image_size': 28, 'channels': 1, 'batch_size': 128, 'timesteps': 200, 'beta_end': 0.08, 'num_epochs': 20, 'beta_start': 0.0001, 'results_folder': PosixPath('results'), 'noise_schedule': 'linear', 'sampling_method': 'DDPM'}
+2023-11-24 19:24:54 INFO epoch 0: fid score: 2442.305024668527
+2023-11-24 19:25:26 INFO Training with parameters: {'image_size': 28, 'channels': 1, 'batch_size': 128, 'timesteps': 200, 'beta_end': 0.08, 'num_epochs': 20, 'beta_start': 0.0001, 'results_folder': PosixPath('results'), 'noise_schedule': 'linear', 'sampling_method': 'DDPM'}
+2023-11-24 19:26:01 INFO epoch 0: fid score: 2579.320833902404
+2023-11-24 19:26:31 INFO epoch 1: fid score: 2284.019305016599
+2023-11-24 19:27:02 INFO epoch 2: fid score: 2166.0157205616024
+2023-11-24 19:27:33 INFO epoch 3: fid score: 2308.8943221511877
+2023-11-24 19:28:04 INFO epoch 4: fid score: 2079.8571619919917
+2023-11-24 19:28:36 INFO epoch 5: fid score: 2358.3158059049
+2023-11-24 19:29:07 INFO epoch 6: fid score: 2056.2829407152094
+2023-11-24 19:29:38 INFO epoch 7: fid score: 2135.042959472302
+2023-11-24 19:30:09 INFO epoch 8: fid score: 2057.489439069074
+2023-11-24 19:30:39 INFO epoch 9: fid score: 2096.3705171965676
+2023-11-24 19:31:10 INFO epoch 10: fid score: 1979.1356624575353
+2023-11-24 19:31:41 INFO epoch 11: fid score: 2074.3914359224314
+2023-11-24 19:32:07 INFO Training with parameters: {'image_size': 28, 'channels': 1, 'batch_size': 128, 'timesteps': 200, 'beta_end': 0.08, 'num_epochs': 20, 'beta_start': 0.0001, 'results_folder': PosixPath('results'), 'noise_schedule': 'linear', 'sampling_method': 'DDPM'}
+2023-11-24 19:32:41 INFO epoch 0: fid score: 1136.8603123985927
+2023-11-24 19:33:12 INFO epoch 1: fid score: 203.23284170296495
+2023-11-24 19:33:42 INFO epoch 2: fid score: 171.75382111830484
+2023-11-24 19:34:11 INFO epoch 3: fid score: 140.76433942770808
+2023-11-24 19:34:41 INFO epoch 4: fid score: 153.54068628198613
+2023-11-24 19:35:11 INFO epoch 5: fid score: 111.25026945084153
+2023-11-24 19:35:41 INFO epoch 6: fid score: 92.88284742321947
+2023-11-24 19:36:12 INFO epoch 7: fid score: 72.40933441831103
+2023-11-24 19:36:42 INFO epoch 8: fid score: 75.81750858126802
+2023-11-24 19:37:12 INFO epoch 9: fid score: 86.39865906908244
+2023-11-24 19:37:41 INFO epoch 10: fid score: 75.9750588174653
+2023-11-24 19:38:11 INFO epoch 11: fid score: 77.92909749206451
+2023-11-24 19:38:41 INFO epoch 12: fid score: 80.75057031235605
+2023-11-24 19:39:43 INFO Training with parameters: {'image_size': 28, 'channels': 1, 'batch_size': 128, 'timesteps': 200, 'beta_end': 0.08, 'num_epochs': 20, 'beta_start': 0.0001, 'results_folder': PosixPath('results'), 'noise_schedule': 'linear', 'sampling_method': 'DDPM'}
+2023-11-24 19:40:18 INFO epoch 0: fid score: 335812.94754001533
+2023-11-24 19:43:57 INFO Training with parameters: {'image_size': 28, 'channels': 1, 'batch_size': 128, 'timesteps': 200, 'beta_end': 0.08, 'num_epochs': 20, 'beta_start': 0.0001, 'results_folder': PosixPath('results'), 'noise_schedule': 'linear', 'sampling_method': 'DDPM'}
+2023-11-24 19:44:14 INFO Training with parameters: {'image_size': 28, 'channels': 1, 'batch_size': 128, 'timesteps': 200, 'beta_end': 0.08, 'num_epochs': 20, 'beta_start': 0.0001, 'results_folder': PosixPath('results'), 'noise_schedule': 'linear', 'sampling_method': 'DDPM'}
+2023-11-24 19:44:48 INFO epoch 0: fid score: 360.79602184429706
+2023-11-24 19:45:18 INFO epoch 1: fid score: 212.0132219983547
+2023-11-24 19:45:48 INFO epoch 2: fid score: 123.46374576377231
+2023-11-24 19:46:18 INFO epoch 3: fid score: 109.7866617765314
+2023-11-24 19:46:48 INFO epoch 4: fid score: 93.70456953376181
+2023-11-24 19:47:18 INFO epoch 5: fid score: 69.96006235300223
+2023-11-24 19:47:48 INFO epoch 6: fid score: 210.0068757523435
+2023-11-24 19:48:18 INFO epoch 7: fid score: 91.87532992898849
+2023-11-24 19:48:48 INFO epoch 8: fid score: 83.89491048925474
+2023-11-24 19:49:18 INFO epoch 9: fid score: 84.45589119649242
+2023-11-24 19:49:48 INFO epoch 10: fid score: 69.58304974645085
+2023-11-24 19:50:18 INFO epoch 11: fid score: 148.34654353262604
+2023-11-24 19:50:48 INFO epoch 12: fid score: 88.2416984521893
+2023-11-24 19:51:18 INFO epoch 13: fid score: 83.32981160263918
+2023-11-24 19:51:49 INFO epoch 14: fid score: 81.64175175932606
+2023-11-24 19:52:19 INFO epoch 15: fid score: 78.35588839714092
+2023-11-24 19:52:49 INFO epoch 16: fid score: 217.9186789021563
+2023-11-24 19:53:19 INFO epoch 17: fid score: 61.45265876079512
+2023-11-24 19:53:48 INFO epoch 18: fid score: 74.93823898817824
+2023-11-24 19:54:19 INFO epoch 19: fid score: 63.40299614711032
+2023-11-24 19:54:19 INFO best result: 61.45265876079512
+2023-11-24 19:54:19 INFO Training with parameters: {'image_size': 28, 'channels': 1, 'batch_size': 128, 'timesteps': 200, 'beta_end': 0.08, 'num_epochs': 20, 'beta_start': 0.0001, 'results_folder': PosixPath('results'), 'noise_schedule': 'linear', 'sampling_method': 'DDIM'}
+2023-11-24 19:54:47 INFO epoch 0: fid score: 2280.431719018676
+2023-11-24 19:55:16 INFO epoch 1: fid score: 615.3760307400586
+2023-11-24 19:55:44 INFO epoch 2: fid score: 348.5627220877447
+2023-11-24 19:56:13 INFO epoch 3: fid score: 279.7876410831098
+2023-11-24 19:56:42 INFO epoch 4: fid score: 145.86814260310393
+2023-11-24 19:57:11 INFO epoch 5: fid score: 127.31497059241812
+2023-11-24 19:57:40 INFO epoch 6: fid score: 143.87559131799588
+2023-11-24 19:58:08 INFO epoch 7: fid score: 100.51844543999728
+2023-11-24 19:58:36 INFO epoch 8: fid score: 127.34684409667577
+2023-11-24 19:59:05 INFO epoch 9: fid score: 108.40098754636362
+2023-11-24 19:59:33 INFO epoch 10: fid score: 91.76978517634238
+2023-11-24 20:00:02 INFO epoch 11: fid score: 137.1401526830109
+2023-11-24 20:00:31 INFO epoch 12: fid score: 83.50740020348728
+2023-11-24 20:00:59 INFO epoch 13: fid score: 85.26938057308202
+2023-11-24 20:01:28 INFO epoch 14: fid score: 92.50797616591738
+2023-11-24 20:01:56 INFO epoch 15: fid score: 74.9073225834872
+2023-11-24 20:02:26 INFO epoch 16: fid score: 85.47658443354503
+2023-11-24 20:02:54 INFO epoch 17: fid score: 80.01113973004041
+2023-11-24 20:03:23 INFO epoch 18: fid score: 85.01209400647916
+2023-11-24 20:03:51 INFO epoch 19: fid score: 76.14801565093802
+2023-11-24 20:03:51 INFO best result: 74.9073225834872
+2023-11-24 20:03:51 INFO Training with parameters: {'image_size': 28, 'channels': 1, 'batch_size': 128, 'timesteps': 1000, 'beta_end': 0.02, 'num_epochs': 20, 'beta_start': 0.0001, 'results_folder': PosixPath('results'), 'noise_schedule': 'linear', 'sampling_method': 'DDPM'}
+2023-11-24 20:04:29 INFO epoch 0: fid score: 843.2134726966214
+2023-11-24 20:05:07 INFO epoch 1: fid score: 555.8992982731672
+2023-11-24 20:05:45 INFO epoch 2: fid score: 146.44840465112628
+2023-11-24 20:06:23 INFO epoch 3: fid score: 108.99883124788714
+2023-11-24 20:07:01 INFO epoch 4: fid score: 130.37203173559908
+2023-11-24 20:07:39 INFO epoch 5: fid score: 92.4715646538475
+2023-11-24 20:08:17 INFO epoch 6: fid score: 83.52408736691713
+2023-11-24 20:08:54 INFO epoch 7: fid score: 91.37576211880915
+2023-11-24 20:09:32 INFO epoch 8: fid score: 76.5151974031361
+2023-11-24 20:10:10 INFO epoch 9: fid score: 78.16707846752217
+2023-11-24 20:10:48 INFO epoch 10: fid score: 76.73323325977682
+2023-11-24 20:11:26 INFO epoch 11: fid score: 71.05057910889768
+2023-11-24 20:12:04 INFO epoch 12: fid score: 122.71181196052228
+2023-11-24 20:12:41 INFO epoch 13: fid score: 86.45739681118464
+2023-11-24 20:13:20 INFO epoch 14: fid score: 87.48625613414455
+2023-11-24 20:13:57 INFO epoch 15: fid score: 85.08928233046947
+2023-11-24 20:14:35 INFO epoch 16: fid score: 93.84293014889215
+2023-11-24 20:15:13 INFO epoch 17: fid score: 117.55497347992647
+2023-11-24 20:15:51 INFO epoch 18: fid score: 76.84872804082372
+2023-11-24 20:16:29 INFO epoch 19: fid score: 91.4001050165058
+2023-11-24 20:16:29 INFO best result: 71.05057910889768
+2023-11-24 20:16:29 INFO Training with parameters: {'image_size': 28, 'channels': 1, 'batch_size': 128, 'timesteps': 1000, 'beta_end': 0.02, 'num_epochs': 20, 'beta_start': 0.0001, 'results_folder': PosixPath('results'), 'noise_schedule': 'linear', 'sampling_method': 'DDIM'}
+2023-11-24 20:16:57 INFO epoch 0: fid score: 1521.480143970351
+2023-11-24 20:17:26 INFO epoch 1: fid score: 998.5343867849416
+2023-11-24 20:17:55 INFO epoch 2: fid score: 395.68568078488556
+2023-11-24 20:18:22 INFO epoch 3: fid score: 300.9973388482794
+2023-11-24 20:18:51 INFO epoch 4: fid score: 194.09603502083698
+2023-11-24 20:19:19 INFO epoch 5: fid score: 109.95801802607167
+2023-11-24 20:19:47 INFO epoch 6: fid score: 156.81288592922652
+2023-11-24 20:20:16 INFO epoch 7: fid score: 118.1281609796026
+2023-11-24 20:20:44 INFO epoch 8: fid score: 219.22893354715993
+2023-11-24 20:21:12 INFO epoch 9: fid score: 472.9239395622035
+2023-11-24 20:21:41 INFO epoch 10: fid score: 125.65953515668869
+2023-11-24 20:22:09 INFO epoch 11: fid score: 78.50033605685739
+2023-11-24 20:22:38 INFO epoch 12: fid score: 146.42034601884734
+2023-11-24 20:23:06 INFO epoch 13: fid score: 107.42407564585035
+2023-11-24 20:23:35 INFO epoch 14: fid score: 88.69290891372127
+2023-11-24 20:24:03 INFO epoch 15: fid score: 98.80548463368878
+2023-11-24 20:24:32 INFO epoch 16: fid score: 95.60020797819672
+2023-11-24 20:25:00 INFO epoch 17: fid score: 97.69082221690518
+2023-11-24 20:25:29 INFO epoch 18: fid score: 99.85747131455648
+2023-11-24 20:25:57 INFO epoch 19: fid score: 90.3168499604856
+2023-11-24 20:25:57 INFO best result: 78.50033605685739
+2023-11-24 20:25:57 INFO Training with parameters: {'image_size': 28, 'channels': 1, 'batch_size': 128, 'timesteps': 200, 'beta_end': 0.08, 'num_epochs': 20, 'beta_start': 0.0001, 'results_folder': PosixPath('results'), 'noise_schedule': 'cosine', 'sampling_method': 'DDPM'}
+2023-11-24 20:26:27 INFO epoch 0: fid score: 488.47137565746266
+2023-11-24 20:26:57 INFO epoch 1: fid score: 676.6848806596388
+2023-11-24 20:27:27 INFO epoch 2: fid score: 122.66099905091212
+2023-11-24 20:27:58 INFO epoch 3: fid score: 385.74575850014674
+2023-11-24 20:28:29 INFO epoch 4: fid score: 91.76343972083053
+2023-11-24 20:29:00 INFO epoch 5: fid score: 100.24839897884388
+2023-11-24 20:29:30 INFO epoch 6: fid score: 140.82362727678225
+2023-11-24 20:30:00 INFO epoch 7: fid score: 68.79110195354383
+2023-11-24 20:30:30 INFO epoch 8: fid score: 96.64127265661566
+2023-11-24 20:31:01 INFO epoch 9: fid score: 69.37096158629437
+2023-11-24 20:31:33 INFO epoch 10: fid score: 91.44802965680041
+2023-11-24 20:32:04 INFO epoch 11: fid score: 96.71335309458846
+2023-11-24 20:32:34 INFO epoch 12: fid score: 70.73213566311807
+2023-11-24 20:33:05 INFO epoch 13: fid score: 60.518980524025004
+2023-11-24 20:33:36 INFO epoch 14: fid score: 99.84670691804871
+2023-11-24 20:34:06 INFO epoch 15: fid score: 118.77756604295661
+2023-11-24 20:34:36 INFO epoch 16: fid score: 88.6286216973786
+2023-11-24 20:35:06 INFO epoch 17: fid score: 70.07746304242704
+2023-11-24 20:35:37 INFO epoch 18: fid score: 81.67676242728363
+2023-11-24 20:36:07 INFO epoch 19: fid score: 71.25460410597682
+2023-11-24 20:36:07 INFO best result: 60.518980524025004
+2023-11-24 20:36:07 INFO Training with parameters: {'image_size': 28, 'channels': 1, 'batch_size': 128, 'timesteps': 200, 'beta_end': 0.08, 'num_epochs': 20, 'beta_start': 0.0001, 'results_folder': PosixPath('results'), 'noise_schedule': 'cosine', 'sampling_method': 'DDIM'}
+2023-11-24 20:36:36 INFO epoch 0: fid score: 1918.8036936000515
+2023-11-24 20:37:05 INFO epoch 1: fid score: 1296.50575054162
+2023-11-24 20:37:34 INFO epoch 2: fid score: 483.2518967132811
+2023-11-24 20:38:03 INFO epoch 3: fid score: 112.94195894151636
+2023-11-24 20:38:32 INFO epoch 4: fid score: 83.74417225162932
+2023-11-24 20:39:01 INFO epoch 5: fid score: 112.43944972936382
+2023-11-24 20:39:30 INFO epoch 6: fid score: 186.05183864583117
+2023-11-24 20:40:05 INFO epoch 7: fid score: 95.09338503052052
+2023-11-24 20:40:34 INFO epoch 8: fid score: 89.41116700057586
+2023-11-24 20:41:03 INFO epoch 9: fid score: 71.90746856070763
+2023-11-24 20:41:36 INFO epoch 10: fid score: 173.48275996742836
+2023-11-24 20:42:05 INFO epoch 11: fid score: 86.74943638757424
+2023-11-24 20:42:34 INFO epoch 12: fid score: 172.8979991951368
+2023-11-24 20:43:04 INFO epoch 13: fid score: 81.16982811004891
+2023-11-24 20:43:33 INFO epoch 14: fid score: 101.28208789353097
+2023-11-24 20:44:03 INFO epoch 15: fid score: 193.43292085905102
+2023-11-24 20:44:31 INFO epoch 16: fid score: 95.62271852421935
+2023-11-24 20:45:00 INFO epoch 17: fid score: 126.79175236466563
+2023-11-24 20:45:29 INFO epoch 18: fid score: 93.32576778097713
+2023-11-24 20:45:57 INFO epoch 19: fid score: 96.44211672006651
+2023-11-24 20:45:57 INFO best result: 71.90746856070763
+2023-11-24 20:45:57 INFO Training with parameters: {'image_size': 28, 'channels': 1, 'batch_size': 128, 'timesteps': 1000, 'beta_end': 0.02, 'num_epochs': 20, 'beta_start': 0.0001, 'results_folder': PosixPath('results'), 'noise_schedule': 'cosine', 'sampling_method': 'DDPM'}
+2023-11-24 20:46:35 INFO epoch 0: fid score: 857.9396627800933
+2023-11-24 20:47:13 INFO epoch 1: fid score: 216.16104266868
+2023-11-24 20:47:51 INFO epoch 2: fid score: 189.17959821706023
+2023-11-24 20:48:28 INFO epoch 3: fid score: 124.34132968065883
+2023-11-24 20:49:06 INFO epoch 4: fid score: 254.97409027768165
+2023-11-24 20:49:44 INFO epoch 5: fid score: 89.71405045240232
+2023-11-24 20:50:22 INFO epoch 6: fid score: 186.25851534521794
+2023-11-24 20:50:59 INFO epoch 7: fid score: 69.03511171643842
+2023-11-24 20:51:37 INFO epoch 8: fid score: 81.69392178881495
+2023-11-24 20:52:15 INFO epoch 9: fid score: 73.7310245959743
+2023-11-24 20:52:53 INFO epoch 10: fid score: 125.7371668957276
+2023-11-24 20:53:31 INFO epoch 11: fid score: 85.69600991449363
+2023-11-24 20:54:09 INFO epoch 12: fid score: 72.91949101824551
+2023-11-24 20:54:46 INFO epoch 13: fid score: 79.5561370505213
+2023-11-24 20:55:24 INFO epoch 14: fid score: 70.07911116525142
+2023-11-24 20:56:01 INFO epoch 15: fid score: 75.34320658318457
+2023-11-24 20:56:39 INFO epoch 16: fid score: 93.53137830496206
+2023-11-24 20:57:18 INFO epoch 17: fid score: 84.36612214036015
+2023-11-24 20:57:58 INFO epoch 18: fid score: 137.1263948879934
+2023-11-24 20:58:37 INFO epoch 19: fid score: 91.59317777335701
+2023-11-24 20:58:37 INFO best result: 69.03511171643842
+2023-11-24 20:58:37 INFO Training with parameters: {'image_size': 28, 'channels': 1, 'batch_size': 128, 'timesteps': 1000, 'beta_end': 0.02, 'num_epochs': 20, 'beta_start': 0.0001, 'results_folder': PosixPath('results'), 'noise_schedule': 'cosine', 'sampling_method': 'DDIM'}
+2023-11-24 20:59:07 INFO epoch 0: fid score: 2181.619382014356
+2023-11-24 20:59:36 INFO epoch 1: fid score: 448.83587469722374
+2023-11-24 21:00:06 INFO epoch 2: fid score: 360.89174140204295
+2023-11-24 21:00:35 INFO epoch 3: fid score: 163.5366215212664
+2023-11-24 21:01:03 INFO epoch 4: fid score: 240.31312616188055
+2023-11-24 21:01:32 INFO epoch 5: fid score: 138.26639664791762
+2023-11-24 21:02:02 INFO epoch 6: fid score: 153.57546899415345
+2023-11-24 21:02:31 INFO epoch 7: fid score: 111.38107821555559
+2023-11-24 21:03:00 INFO epoch 8: fid score: 87.77662251898809
+2023-11-24 21:03:29 INFO epoch 9: fid score: 78.90421669978723
+2023-11-24 21:03:57 INFO epoch 10: fid score: 98.52093676353326
+2023-11-24 21:04:26 INFO epoch 11: fid score: 84.14261677892041
+2023-11-24 21:04:54 INFO epoch 12: fid score: 115.93870579841922
+2023-11-24 21:05:23 INFO epoch 13: fid score: 77.97546043823743
+2023-11-24 21:05:51 INFO epoch 14: fid score: 96.39688681572521
+2023-11-24 21:06:20 INFO epoch 15: fid score: 80.3713984743471
+2023-11-24 21:06:48 INFO epoch 16: fid score: 167.42390195225923
+2023-11-24 21:07:17 INFO epoch 17: fid score: 100.17485581710581
+2023-11-24 21:07:45 INFO epoch 18: fid score: 87.60839705855989
+2023-11-24 21:08:13 INFO epoch 19: fid score: 84.38695970219102
+2023-11-24 21:08:13 INFO best result: 77.97546043823743
+2023-11-24 21:08:13 INFO Training with parameters: {'image_size': 28, 'channels': 1, 'batch_size': 128, 'timesteps': 200, 'beta_end': 0.08, 'num_epochs': 20, 'beta_start': 0.0001, 'results_folder': PosixPath('results'), 'noise_schedule': 'quadratic', 'sampling_method': 'DDPM'}
+2023-11-24 21:08:43 INFO epoch 0: fid score: 251.34331029765514
+2023-11-24 21:09:13 INFO epoch 1: fid score: 174.2311911027877
+2023-11-24 21:09:43 INFO epoch 2: fid score: 73.55183264735716
+2023-11-24 21:10:13 INFO epoch 3: fid score: 69.1739591396531
+2023-11-24 21:10:43 INFO epoch 4: fid score: 84.84488495767079
+2023-11-24 21:11:13 INFO epoch 5: fid score: 187.37598030517032
+2023-11-24 21:11:42 INFO epoch 6: fid score: 98.77477884906638
+2023-11-24 21:12:12 INFO epoch 7: fid score: 89.25581327368795
+2023-11-24 21:12:42 INFO epoch 8: fid score: 79.20833318145708
+2023-11-24 21:13:12 INFO epoch 9: fid score: 72.48341546305736
+2023-11-24 21:13:43 INFO epoch 10: fid score: 75.5526302687529
+2023-11-24 21:14:14 INFO epoch 11: fid score: 85.25290975471245
+2023-11-24 21:14:44 INFO epoch 12: fid score: 76.9984281275179
+2023-11-24 21:15:16 INFO epoch 13: fid score: 64.50016243916758
+2023-11-24 21:15:46 INFO epoch 14: fid score: 78.64696303770734
+2023-11-24 21:16:18 INFO epoch 15: fid score: 87.07736765724704
+2023-11-24 21:16:49 INFO epoch 16: fid score: 97.574402274553
+2023-11-24 21:17:19 INFO epoch 17: fid score: 82.79474251291785
+2023-11-24 21:17:50 INFO epoch 18: fid score: 73.79315016113242
+2023-11-24 21:18:21 INFO epoch 19: fid score: 71.7467150281177
+2023-11-24 21:18:21 INFO best result: 64.50016243916758
+2023-11-24 21:18:21 INFO Training with parameters: {'image_size': 28, 'channels': 1, 'batch_size': 128, 'timesteps': 200, 'beta_end': 0.08, 'num_epochs': 20, 'beta_start': 0.0001, 'results_folder': PosixPath('results'), 'noise_schedule': 'quadratic', 'sampling_method': 'DDIM'}
+2023-11-24 21:18:51 INFO epoch 0: fid score: 1325.228496871056
+2023-11-24 21:19:20 INFO epoch 1: fid score: 327.6408310425349
+2023-11-24 21:19:48 INFO epoch 2: fid score: 191.99323416353155
+2023-11-24 21:20:17 INFO epoch 3: fid score: 158.41795944805256
+2023-11-24 21:20:46 INFO epoch 4: fid score: 233.0489048660971
+2023-11-24 21:21:15 INFO epoch 5: fid score: 107.16208983470429
+2023-11-24 21:21:48 INFO epoch 6: fid score: 107.35696948349904
+2023-11-24 21:22:17 INFO epoch 7: fid score: 112.74085652464608
+2023-11-24 21:22:46 INFO epoch 8: fid score: 71.93345216197017
+2023-11-24 21:23:16 INFO epoch 9: fid score: 94.28733813252548
+2023-11-24 21:23:45 INFO epoch 10: fid score: 173.91147940919325
+2023-11-24 21:24:14 INFO epoch 11: fid score: 92.24430054670441
+2023-11-24 21:24:43 INFO epoch 12: fid score: 125.95770412189177
+2023-11-24 21:25:12 INFO epoch 13: fid score: 98.17834925554979
+2023-11-24 21:25:41 INFO epoch 14: fid score: 79.70480661231781
+2023-11-24 21:26:10 INFO epoch 15: fid score: 73.04627980868699
+2023-11-24 21:26:39 INFO epoch 16: fid score: 73.29144730772146
+2023-11-24 21:27:08 INFO epoch 17: fid score: 81.54960066847819
+2023-11-24 21:27:36 INFO epoch 18: fid score: 73.625048284052
+2023-11-24 21:28:05 INFO epoch 19: fid score: 139.06175177897325
+2023-11-24 21:28:05 INFO best result: 71.93345216197017
+2023-11-24 21:28:05 INFO Training with parameters: {'image_size': 28, 'channels': 1, 'batch_size': 128, 'timesteps': 1000, 'beta_end': 0.02, 'num_epochs': 20, 'beta_start': 0.0001, 'results_folder': PosixPath('results'), 'noise_schedule': 'quadratic', 'sampling_method': 'DDPM'}
+2023-11-24 21:28:43 INFO epoch 0: fid score: 2965.974053945955
+2023-11-24 21:29:20 INFO epoch 1: fid score: 497.22631583217674
+2023-11-24 21:29:58 INFO epoch 2: fid score: 117.41999126190242
+2023-11-24 21:30:36 INFO epoch 3: fid score: 471.6524923410347
+2023-11-24 21:31:14 INFO epoch 4: fid score: 108.94630654630714
+2023-11-24 21:31:52 INFO epoch 5: fid score: 71.09071518344825
+2023-11-24 21:32:30 INFO epoch 6: fid score: 89.25358150537252
+2023-11-24 21:33:08 INFO epoch 7: fid score: 94.38517486240434
+2023-11-24 21:33:46 INFO epoch 8: fid score: 74.27309777488831
+2023-11-24 21:34:24 INFO epoch 9: fid score: 74.03124253056717
+2023-11-24 21:35:01 INFO epoch 10: fid score: 122.10241484528169
+2023-11-24 21:35:39 INFO epoch 11: fid score: 121.98093128758423
+2023-11-24 21:36:16 INFO epoch 12: fid score: 72.96352070951546
+2023-11-24 21:36:54 INFO epoch 13: fid score: 81.74178970037494
+2023-11-24 21:37:32 INFO epoch 14: fid score: 137.28609929128896
+2023-11-24 21:38:09 INFO epoch 15: fid score: 81.6153705540801
+2023-11-24 21:38:47 INFO epoch 16: fid score: 110.81710986905571
+2023-11-24 21:39:24 INFO epoch 17: fid score: 66.45618776101111
+2023-11-24 21:40:02 INFO epoch 18: fid score: 77.81077374674337
+2023-11-24 21:40:39 INFO epoch 19: fid score: 84.9482861804428
+2023-11-24 21:40:39 INFO best result: 66.45618776101111
+2023-11-24 21:40:39 INFO Training with parameters: {'image_size': 28, 'channels': 1, 'batch_size': 128, 'timesteps': 1000, 'beta_end': 0.02, 'num_epochs': 20, 'beta_start': 0.0001, 'results_folder': PosixPath('results'), 'noise_schedule': 'quadratic', 'sampling_method': 'DDIM'}
+2023-11-24 21:41:08 INFO epoch 0: fid score: 1773.8393830301893
+2023-11-24 21:41:36 INFO epoch 1: fid score: 477.33030006784696
+2023-11-24 21:42:04 INFO epoch 2: fid score: 2166.9430744977208
+2023-11-24 21:42:33 INFO epoch 3: fid score: 265.4318587474192
+2023-11-24 21:43:01 INFO epoch 4: fid score: 179.63639438838885
+2023-11-24 21:43:30 INFO epoch 5: fid score: 124.4369757594144
+2023-11-24 21:43:58 INFO epoch 6: fid score: 95.78821430261823
+2023-11-24 21:44:27 INFO epoch 7: fid score: 239.3569728730455
+2023-11-24 21:44:55 INFO epoch 8: fid score: 111.08268240972878
+2023-11-24 21:45:23 INFO epoch 9: fid score: 124.29131226646984
+2023-11-24 21:45:51 INFO epoch 10: fid score: 145.85242891063496
+2023-11-24 21:46:20 INFO epoch 11: fid score: 240.81825926289707
+2023-11-24 21:46:48 INFO epoch 12: fid score: 98.22717886598384
+2023-11-24 21:47:16 INFO epoch 13: fid score: 175.5945115240587
+2023-11-24 21:47:45 INFO epoch 14: fid score: 149.9688350322983
+2023-11-24 21:48:14 INFO epoch 15: fid score: 117.77093552411012
+2023-11-24 21:48:42 INFO epoch 16: fid score: 97.59553128098949
+2023-11-24 21:49:10 INFO epoch 17: fid score: 72.13318843552429
+2023-11-24 21:49:39 INFO epoch 18: fid score: 97.8638964347976
+2023-11-24 21:50:07 INFO epoch 19: fid score: 124.86973994451779
+2023-11-24 21:50:07 INFO best result: 72.13318843552429
+2023-11-24 21:50:07 INFO Training with parameters: {'image_size': 28, 'channels': 1, 'batch_size': 128, 'timesteps': 200, 'beta_end': 0.08, 'num_epochs': 20, 'beta_start': 0.0001, 'results_folder': PosixPath('results'), 'noise_schedule': 'sigmoid', 'sampling_method': 'DDPM'}
+2023-11-24 21:50:37 INFO epoch 0: fid score: 4887.319321274796
+2023-11-24 21:51:07 INFO epoch 1: fid score: 489.731015508336
+2023-11-24 21:51:38 INFO epoch 2: fid score: 1032.6947293168562
+2023-11-24 21:52:07 INFO epoch 3: fid score: 118.53773204013693
+2023-11-24 21:52:36 INFO epoch 4: fid score: 238.37236626316803
+2023-11-24 21:53:06 INFO epoch 5: fid score: 138.86747052408828
+2023-11-24 21:53:36 INFO epoch 6: fid score: 75.11533658016457
+2023-11-24 21:54:06 INFO epoch 7: fid score: 82.86574525877407
+2023-11-24 21:54:36 INFO epoch 8: fid score: 76.82100061499092
+2023-11-24 21:55:05 INFO epoch 9: fid score: 82.40924005105842
+2023-11-24 21:55:35 INFO epoch 10: fid score: 101.17531395965801
+2023-11-24 21:56:05 INFO epoch 11: fid score: 81.30653399034327
+2023-11-24 21:56:35 INFO epoch 12: fid score: 72.23752311685814
+2023-11-24 21:57:05 INFO epoch 13: fid score: 107.77906449676786
+2023-11-24 21:57:35 INFO epoch 14: fid score: 86.61033549897371
+2023-11-24 21:58:05 INFO epoch 15: fid score: 180.02041403582484
+2023-11-24 21:58:35 INFO epoch 16: fid score: 65.49864302781708
+2023-11-24 21:59:06 INFO epoch 17: fid score: 75.6097085162744
+2023-11-24 21:59:35 INFO epoch 18: fid score: 80.93521247337827
+2023-11-24 22:00:06 INFO epoch 19: fid score: 64.80966680273718
+2023-11-24 22:00:06 INFO best result: 64.80966680273718
+2023-11-24 22:00:06 INFO Training with parameters: {'image_size': 28, 'channels': 1, 'batch_size': 128, 'timesteps': 200, 'beta_end': 0.08, 'num_epochs': 20, 'beta_start': 0.0001, 'results_folder': PosixPath('results'), 'noise_schedule': 'sigmoid', 'sampling_method': 'DDIM'}
+2023-11-24 22:00:35 INFO epoch 0: fid score: 834.7517588264467
+2023-11-24 22:01:04 INFO epoch 1: fid score: 511.1248629026853
+2023-11-24 22:01:33 INFO epoch 2: fid score: 374.2248691664005
+2023-11-24 22:02:02 INFO epoch 3: fid score: 147.33640266747588
+2023-11-24 22:02:31 INFO epoch 4: fid score: 112.30820495007815
+2023-11-24 22:02:59 INFO epoch 5: fid score: 152.38784946411818
+2023-11-24 22:03:28 INFO epoch 6: fid score: 105.05655126539219
+2023-11-24 22:03:57 INFO epoch 7: fid score: 106.99877342036099
+2023-11-24 22:04:26 INFO epoch 8: fid score: 107.82858197915142
+2023-11-24 22:04:56 INFO epoch 9: fid score: 175.09179635666584
+2023-11-24 22:05:26 INFO epoch 10: fid score: 93.07928160325147
+2023-11-24 22:05:55 INFO epoch 11: fid score: 87.31935660562412
+2023-11-24 22:06:23 INFO epoch 12: fid score: 106.45828617811117
+2023-11-24 22:06:52 INFO epoch 13: fid score: 87.83431065006172
+2023-11-24 22:07:20 INFO epoch 14: fid score: 93.44190311645451
+2023-11-24 22:07:49 INFO epoch 15: fid score: 224.94602380685996
+2023-11-24 22:08:17 INFO epoch 16: fid score: 84.24279855650212
+2023-11-24 22:08:46 INFO epoch 17: fid score: 76.9801544687082
+2023-11-24 22:09:14 INFO epoch 18: fid score: 79.51257823102704
+2023-11-24 22:09:42 INFO epoch 19: fid score: 85.36888541895117
+2023-11-24 22:09:42 INFO best result: 76.9801544687082
+2023-11-24 22:09:42 INFO Training with parameters: {'image_size': 28, 'channels': 1, 'batch_size': 128, 'timesteps': 1000, 'beta_end': 0.02, 'num_epochs': 20, 'beta_start': 0.0001, 'results_folder': PosixPath('results'), 'noise_schedule': 'sigmoid', 'sampling_method': 'DDPM'}
+2023-11-24 22:10:20 INFO epoch 0: fid score: 3938.980512653646
+2023-11-24 22:10:58 INFO epoch 1: fid score: 418.2137999832504
+2023-11-24 22:11:35 INFO epoch 2: fid score: 84.791382022
+2023-11-24 22:12:13 INFO epoch 3: fid score: 850.8967553230875
+2023-11-24 22:12:50 INFO epoch 4: fid score: 214.7823523049965
+2023-11-24 22:13:28 INFO epoch 5: fid score: 136.1015601741558
+2023-11-24 22:14:06 INFO epoch 6: fid score: 153.61513046749474
+2023-11-24 22:14:43 INFO epoch 7: fid score: 85.74133410982564
+2023-11-24 22:15:21 INFO epoch 8: fid score: 80.5153624610031
+2023-11-24 22:15:59 INFO epoch 9: fid score: 80.29808839603476
+2023-11-24 22:16:37 INFO epoch 10: fid score: 72.46216686383781
+2023-11-24 22:17:14 INFO epoch 11: fid score: 74.33431079790546
+2023-11-24 22:17:52 INFO epoch 12: fid score: 75.67455924188383
+2023-11-24 22:18:30 INFO epoch 13: fid score: 74.70167257100084
+2023-11-24 22:19:08 INFO epoch 14: fid score: 106.54766311501596
+2023-11-24 22:19:45 INFO epoch 15: fid score: 82.67482388919137
+2023-11-24 22:20:23 INFO epoch 16: fid score: 100.40130069272008
+2023-11-24 22:21:01 INFO epoch 17: fid score: 74.26922709818085
+2023-11-24 22:21:38 INFO epoch 18: fid score: 71.11087208440382
+2023-11-24 22:22:16 INFO epoch 19: fid score: 74.64013112587423
+2023-11-24 22:22:16 INFO best result: 71.11087208440382
+2023-11-24 22:22:16 INFO Training with parameters: {'image_size': 28, 'channels': 1, 'batch_size': 128, 'timesteps': 1000, 'beta_end': 0.02, 'num_epochs': 20, 'beta_start': 0.0001, 'results_folder': PosixPath('results'), 'noise_schedule': 'sigmoid', 'sampling_method': 'DDIM'}
+2023-11-24 22:22:45 INFO epoch 0: fid score: 7335.833826589172
+2023-11-24 22:23:13 INFO epoch 1: fid score: 1719.9873588712153
+2023-11-24 22:23:41 INFO epoch 2: fid score: 376.5684763579093
+2023-11-24 22:24:09 INFO epoch 3: fid score: 462.18828972553257
+2023-11-24 22:24:38 INFO epoch 4: fid score: 604.4753383696614
+2023-11-24 22:25:06 INFO epoch 5: fid score: 571.3902155866031
+2023-11-24 22:25:35 INFO epoch 6: fid score: 432.6532984645543
+2023-11-24 22:26:03 INFO epoch 7: fid score: 152.80269673688136
+2023-11-24 22:26:32 INFO epoch 8: fid score: 219.34152715216106
+2023-11-24 22:27:01 INFO epoch 9: fid score: 310.2972336790792
+2023-11-24 22:27:29 INFO epoch 10: fid score: 277.3118277102513
+2023-11-24 22:27:57 INFO epoch 11: fid score: 104.57580583325112
+2023-11-24 22:28:26 INFO epoch 12: fid score: 357.73586002903767
+2023-11-24 22:28:54 INFO epoch 13: fid score: 93.07994369216368
+2023-11-24 22:29:22 INFO epoch 14: fid score: 96.93989682052018
+2023-11-24 22:29:50 INFO epoch 15: fid score: 92.63783052420554
+2023-11-24 22:30:19 INFO epoch 16: fid score: 82.05283591352512
+2023-11-24 22:30:47 INFO epoch 17: fid score: 87.1832116784226
+2023-11-24 22:31:16 INFO epoch 18: fid score: 73.73622006869387
+2023-11-24 22:31:44 INFO epoch 19: fid score: 150.8975016046968
+2023-11-24 22:31:44 INFO best result: 73.73622006869387
